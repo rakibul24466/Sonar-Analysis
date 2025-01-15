@@ -41,6 +41,7 @@ TalentMesh is an **Interview as a Service** platform designed to accelerate the 
 1. Clone the repository
 2. Install dependencies
 3. Start development
+4. Start you project
 
 ## Development Guidelines
 
